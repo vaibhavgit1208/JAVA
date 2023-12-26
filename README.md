@@ -5,3 +5,5 @@
 
 
 [DBMS Roadmap by Love Babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+
+[Some usefull resources](https://github.com/vineethm1627/OOP?tab=readme-ov-file)
