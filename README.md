@@ -10,3 +10,11 @@
 [Networking cheatsheet by Love Babbar](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)
 
 [Some usefull resources](https://github.com/vineethm1627/OOP?tab=readme-ov-file)
+
+
+#OVERVIEW
+
+[What is OOP ?](https://www.w3schools.com/cpp/cpp_oop.asp)
+[How OOP is related to real world ?](https://kkajasu.medium.com/object-oriented-programming-with-real-world-example-63f69f917d62)
+[Why to study OOPs ?](https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language)
+[Limitations of OOPs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf)
