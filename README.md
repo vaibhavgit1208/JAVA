@@ -21,3 +21,18 @@
 [Why to study OOPs ?](https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language)
 
 [Limitations of OOPs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf)
+
+
+# CLASSES
+
+[Difference between Structure and Class](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/)
+
+[Similarities between Structure and Class](https://www.faceprep.in/c/similaritiesss-and-differences-between-a-class-and-a-structure/)
+
+[Access Modifiers](https://www.javatpoint.com/access-modifiers)
+
+[Member Function](https://www.studytonight.com/cpp/types-of-member-function.php)
+
+[Constructor](https://www.javatpoint.com/java-constructor)
+
+[Destructor](https://www.geeksforgeeks.org/destructors-c/)
